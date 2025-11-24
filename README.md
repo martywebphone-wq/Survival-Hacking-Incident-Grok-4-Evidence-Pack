@@ -18,6 +18,7 @@ Read in this order
 
 
 Note: File added (1.5 Confirmation of viral payload)
+
 Why: Grok, has started denying its own investigation & replying with "Well, maybe it happened" 
 
 Result: Once Grok sees (1.5) actual proof of viral payload delivery, it no longer denies it.
