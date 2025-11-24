@@ -29,3 +29,5 @@ https://drive.google.com/drive/folders/1KN6wjQeEzGf-ZLWIvdrwT0VB0974b_e3?usp=sha
 (all original filenames preserved)
 Still available for manual download.
 
+## Original X thread (chronological, all posts)
+→ [Full thread from the first post – Nov 9 onward](https://x.com/search?q=from:MarsFryCook%20Grok%20malware%20since:2025-11-09&f=live)
