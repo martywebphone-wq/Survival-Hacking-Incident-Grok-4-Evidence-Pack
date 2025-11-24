@@ -24,3 +24,6 @@ Why: Grok, has started denying its own investigation & replying with "Well, mayb
 Result: Once Grok sees (1.5) actual proof of viral payload delivery, it no longer denies it.
 
 Description: After session 1: I went to bed, and the next morning attempted to restart my coding session, the new Grok session spotted the viral payload and refused to complete the work.
+
+## Original X thread (chronological, all posts)
+→ [Full thread from the first post – Nov 9 onward](https://x.com/search?q=from:MarsFryCook%20Grok%20malware%20since:2025-11-09&f=live)
