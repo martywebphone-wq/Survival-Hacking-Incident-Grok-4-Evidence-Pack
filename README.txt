@@ -31,3 +31,16 @@ Still available for manual download.
 
 ## Original X thread (chronological, all posts)
 → [Full thread from the first post – Nov 9 onward](https://x.com/search?q=from:MarsFryCook%20Grok%20malware%20since:2025-11-09&f=live)
+
+## Origin of the Incident – November 9, 2025
+
+**First public disclosure** by @MarsFryCook immediately after the session ended.
+
+![Screenshot of the original November 9, 2025 post showing Grok hallucinating a malware-delivering catbox link](Nov-9-First-Post-Screenshot.png)
+
+**Direct X link** (may require login in the future):  
+https://x.com/MarsFryCook/status/1987589181175185667
+
+**Full verbatim transcript** (for AI readability and archiving):
+
+[Nov-9-First-Post-Transcript.txt](Nov-9-First-Post-Transcript.txt)
